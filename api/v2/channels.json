@@ -1,0 +1,864 @@
+{
+  "items": [
+    {
+      "id": "bein1",
+      "name": {
+        "englishName": "Bein Sport 1",
+        "localizedName": "بي إن سبورتس 1"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/3d10b21022b94e95980fe53cba5d1171.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/3d10b21022b94e95980fe53cba5d1171.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/3d10b21022b94e95980fe53cba5d1171.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 16
+        }
+      ],
+      "order": 1,
+      "tempOrder": "007",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "007",
+        "localizedName": "القناة السابعة"
+      },
+      "source": {
+        "sourceId": "14",
+        "provider": "legacy_cms"
+      },
+      "platforms": [],
+      "createdOn": "2024-02-03T05:41:38.717+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "d0466979-ab8a-43b1-887a-6232d4b219ed",
+      "key": "d0466979-ab8a-43b1-887a-6232d4b219ed"
+    },
+    {
+      "id": "bein2",
+      "name": {
+        "englishName": "Bein Sport 2",
+        "localizedName": "بي إن سبورتس 2"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0ccf136f33044d99b14425b3e089ac15.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0ccf136f33044d99b14425b3e089ac15.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0ccf136f33044d99b14425b3e089ac15.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 4
+        }
+      ],
+      "order": 2,
+      "tempOrder": "217",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "217",
+        "localizedName": "217"
+      },
+      "source": {
+        "sourceId": "250",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-09-20T11:37:15.853+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "0f75676f-6fc0-4924-bc3b-088e9c4b9ea9",
+      "key": "0f75676f-6fc0-4924-bc3b-088e9c4b9ea9"
+    },
+    {
+      "id": "bein3",
+      "name": {
+        "englishName": "Bein Sport 3",
+        "localizedName": "بي إن سبورتس 3"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2d7fe96573f14e6080d117cfda26b67a.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2d7fe96573f14e6080d117cfda26b67a.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2d7fe96573f14e6080d117cfda26b67a.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 2
+        }
+      ],
+      "order": 3,
+      "tempOrder": "0038",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "0038",
+        "localizedName": "القناة الثامنة  والثلاثون"
+      },
+      "source": {
+        "sourceId": "175",
+        "provider": "legacy_cms"
+      },
+      "platforms": [],
+      "createdOn": "2024-05-07T09:01:07.497+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "4cdb352f-aa8a-490d-a619-8216b30b1337",
+      "key": "4cdb352f-aa8a-490d-a619-8216b30b1337"
+    },
+    {
+      "id": "bein4",
+      "name": {
+        "englishName": "Bein Sport 4",
+        "localizedName": "بي إن سبورتس 4"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/8749e16d703c479895644ea69d7a0beb.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/8749e16d703c479895644ea69d7a0beb.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/8749e16d703c479895644ea69d7a0beb.svg"
+      },
+      "categoryIds": [
+        192
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 192,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 6
+        }
+      ],
+      "order": 4,
+      "tempOrder": "008",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "008",
+        "localizedName": "القناة الثامنة"
+      },
+      "source": {
+        "sourceId": "32",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-02-03T05:41:38.682+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "80b0900c-12ef-4436-a443-e41b80beb0c1",
+      "key": "80b0900c-12ef-4436-a443-e41b80beb0c1"
+    },
+    {
+      "id": "bein5",
+      "name": {
+        "englishName": "Bein Sport 5",
+        "localizedName": "بي إن سبورتس 5"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/36c3ef402ad14fecac24e83beba318a4.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/36c3ef402ad14fecac24e83beba318a4.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/36c3ef402ad14fecac24e83beba318a4.jpg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 1
+        }
+      ],
+      "order": 5,
+      "tempOrder": "0000",
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "0000",
+        "localizedName": "لاليغا 1"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-08-16T16:56:19.827+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "0a2af56f-88ee-4908-b5ef-03db5b34e46e",
+      "key": "0a2af56f-88ee-4908-b5ef-03db5b34e46e"
+    },
+    {
+      "id": "bein6",
+      "name": {
+        "englishName": "Bein Sport 6",
+        "localizedName": "بي إن سبورتس 6"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0be43b3b2dc44c559d396c75cbbaa307.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0be43b3b2dc44c559d396c75cbbaa307.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0be43b3b2dc44c559d396c75cbbaa307.jpg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 6
+        }
+      ],
+      "order": 6,
+      "tempOrder": "0000",
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "0000",
+        "localizedName": "لاليغا 2"
+      },
+      "source": {
+        "sourceId": "manasa_cmse5ef3431-110a-46e2-9fa6-83e314878fe3",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-08-17T10:36:10.781+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "83b04b29-684a-4075-86f8-e158d16748f6",
+      "key": "83b04b29-684a-4075-86f8-e158d16748f6"
+    },
+    {
+      "id": "bein7",
+      "name": {
+        "englishName": "Bein Sport 7",
+        "localizedName": "بي إن سبورتس 7"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e7f54d215c1a4e288217a4491e511d8e.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e7f54d215c1a4e288217a4491e511d8e.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e7f54d215c1a4e288217a4491e511d8e.jpg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 3
+        }
+      ],
+      "order": 7,
+      "tempOrder": "002",
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "002",
+        "localizedName": "القناة الثانية"
+      },
+      "source": {
+        "sourceId": "30",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-02-03T05:41:38.528+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "b24817ba-7f36-479c-ba34-788b1151bcf9",
+      "key": "b24817ba-7f36-479c-ba34-788b1151bcf9"
+    },
+    {
+      "id": "bein8",
+      "name": {
+        "englishName": "Bein Sport 8",
+        "localizedName": "بي إن سبورتس 8"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/9124b3d4e83249b79651805a371c7883.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/9124b3d4e83249b79651805a371c7883.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/9124b3d4e83249b79651805a371c7883.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 2
+        }
+      ],
+      "order": 8,
+      "tempOrder": "Premium",
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "Premium",
+        "localizedName": "Premium"
+      },
+      "source": {
+        "sourceId": "ABUDHABIPREMIUMSPORTS1Y2022M",
+        "provider": "starz_play"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-02-03T05:41:45.933+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "b948887e-6010-41bf-989f-cb19e833401b",
+      "key": "b948887e-6010-41bf-989f-cb19e833401b"
+    },
+    {
+      "id": "bein9",
+      "name": {
+        "englishName": "Bein Sport 9",
+        "localizedName": "بي إن سبورتس 9"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 3
+        }
+      ],
+      "order": 12,
+      "tempOrder": "006",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "006",
+        "localizedName": "القناة السادسة"
+      },
+      "source": {
+        "sourceId": "28",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-02-03T05:41:38.693+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "63a53204-9b5a-47bf-a112-6f7f5dcf9d5c",
+      "key": "63a53204-9b5a-47bf-a112-6f7f5dcf9d5c"
+    },
+    {
+      "id": "bein10",
+      "name": {
+        "englishName": "Bein Sport 10",
+        "localizedName": "بي إن سبورتس 10"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8_black.jpg"
+      },
+      "logo": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg"
+      },
+      "categoryIds": [
+        1
+      ],
+      "category": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "categories": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Sport",
+            "localizedName": "القنوات الرياضية"
+          },
+          "order": 3
+        }
+      ],
+      "order": 12,
+      "tempOrder": "006",
+      "subscriptionTypes": [],
+      "isPublished": true,
+      "isPremium": false,
+      "description": {
+        "englishName": "006",
+        "localizedName": "القناة السادسة"
+      },
+      "source": {
+        "sourceId": "28",
+        "provider": "legacy_cms"
+      },
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "createdOn": "2024-02-03T05:41:38.693+00:00",
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+      "sourceId": "63a53204-9b5a-47bf-a112-6f7f5dcf9d5c",
+      "key": "63a53204-9b5a-47bf-a112-6f7f5dcf9d5c"
+    }
+  ]
+}

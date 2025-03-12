@@ -1,0 +1,73 @@
+{
+  "titles": [
+    {
+      "id": "fd35b7a0-ee08-45fd-b980-3486a13a71d9",
+      "externalId": 157396,
+      "titleType": "series",
+      "name": {
+        "englishName": "Al-Chna",
+        "localizedName": "الچنة"
+      },
+      "source": {
+        "sourceId": "157396",
+        "guid": null,
+        "provider": "manasa_cms_ezdrm"
+      },
+      "originalLanguage": {
+        "id": 11,
+        "name": {
+          "englishName": "Arabic",
+          "localizedName": "العربية"
+        }
+      },
+      "parentalRating": "general",
+      "genres": [
+        {
+          "id": 91,
+          "name": {
+            "englishName": "Drama",
+            "localizedName": "دراما"
+          }
+        }
+      ],
+      "releaseDate": "2025-03-06T00:00:00+00:00",
+      "portraitPoster": {
+        "original": "https://vod-cdn-image.almanasa.tv/vod-poster-images/B0EB9866-279F-1DB0-4B24-3EEF77054D3A_poster.jpg?response-cache-control=max-age%3D2592000&AWSAccessKeyId=PSFBSAZRCDPJHDHHPJPIINKJNFEPBHMBJEEEBEHNE&Expires=1743848049&Signature=4xej8FA65PKw1704HCuLBM4sZmE%3D",
+        "smallThumb": "https://vod-cdn-image.almanasa.tv/vod-poster-images/B0EB9866-279F-1DB0-4B24-3EEF77054D3A_poster.jpg?response-cache-control=max-age%3D2592000&AWSAccessKeyId=PSFBSAZRCDPJHDHHPJPIINKJNFEPBHMBJEEEBEHNE&Expires=1743848049&Signature=4xej8FA65PKw1704HCuLBM4sZmE%3D",
+        "mediumThumb": "https://vod-cdn-image.almanasa.tv/vod-poster-images/B0EB9866-279F-1DB0-4B24-3EEF77054D3A_poster.jpg?response-cache-control=max-age%3D2592000&AWSAccessKeyId=PSFBSAZRCDPJHDHHPJPIINKJNFEPBHMBJEEEBEHNE&Expires=1743848049&Signature=4xej8FA65PKw1704HCuLBM4sZmE%3D"
+      },
+      "landscapePoster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/847ae6435d574858b27709cdacce12c0.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/847ae6435d574858b27709cdacce12c0.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/847ae6435d574858b27709cdacce12c0.jpg"
+      },
+      "published": true,
+      "provider": "manasa_cms_ezdrm",
+      "description": {
+        "englishName": "A family lives in harmony until their son marries a girl named Duaa. Once Duaa enters their lives, strange things begin to happen, and family relationships begin to change leading to tension and conflict. It soon becomes clear that Duaa is not what she seems, and behind her calmness hides a strange power that seeks to destroy the family from within.",
+        "localizedName": "تعيش عائلة في وئام حتى يتزوج ابنها من فتاة تدعى دعاء. لتبدأ بعدها أشياء غريبة في الحدوث، إذ تتحول العلاقات في الأسرة مما يؤدي إلى التوتر والصراع. ويتضح أن دعاء ليست كما تبدو، إذ يختبئ خلف هدوئها قوة غريبة تسعى إلى تدمير الأسرة من الداخل."
+      },
+      "trailerUrl": "",
+      "isPremium": true,
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم تيست"
+        }
+      ],
+      "drmMode": true,
+      "drmProvider": "ez_drm",
+      "casts": [],
+      "crew": [],
+      "createdOn": "2025-03-06T19:55:41.728+00:00"
+    }
+  ]
+}

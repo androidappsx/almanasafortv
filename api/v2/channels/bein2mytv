@@ -1,0 +1,41 @@
+{
+  "id": "bein2mytv",
+  "externalId": 14,
+  "name": {
+    "englishName": "Bein Sport 2",
+    "localizedName": "بي أن سبورتس 2"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "name": {
+        "englishName": "MyTV+",
+        "localizedName": "MyTV+"
+      },
+      "order": 16
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "http://stream.mytvplus.net:7003/sport/ch2/adaptive.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "14",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "",
+  "key": ""
+}

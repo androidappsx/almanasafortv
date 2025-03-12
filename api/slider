@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "id": "bein1",
+      "name": {
+        "englishName": "Bein Sport 1",
+        "localizedName": "بي أن سبورتس 1"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg"
+      },
+      "order": 1,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "bein2",
+      "name": {
+        "englishName": "Bein Sport 2",
+        "localizedName": "بي أن سبورتس 2"
+      },
+      "source": {
+        "sourceId": "60",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg"
+      },
+      "order": 2,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "bein3",
+      "name": {
+        "englishName": "Bein Sport 3",
+        "localizedName": "بي أن سبورتس 3"
+      },
+      "source": {
+        "sourceId": "30",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg"
+      },
+      "order": 3,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "bein4",
+      "name": {
+        "englishName": "Bein Sport 4",
+        "localizedName": "بي أن سبورتس 4"
+      },
+      "source": {
+        "sourceId": "60",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg"
+      },
+      "order": 4,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "bein5",
+      "name": {
+        "englishName": "Bein Sport 5",
+        "localizedName": "بي أن سبورتس 5"
+      },
+      "source": {
+        "sourceId": "60",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg"
+      },
+      "order": 5,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    }
+  ],
+  "key": null
+}

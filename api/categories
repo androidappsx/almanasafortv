@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 192,
+      "name": {
+        "englishName": "MyTV+",
+        "localizedName": "MyTV+"
+      },
+      "iconFileId": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg"
+      },
+      "order": 1,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 192,
+      "key": "192"
+    },
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-08/eca8027409f56c603bccf653d08ec8c2.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/504af312771e1f28d160e655f2e0a446.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/6ded2448edb573199d673d25f010c04f.jpg"
+      },
+      "order": 2,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 1,
+      "key": "1"
+    } 
+  ]
+}
