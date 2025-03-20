@@ -1,19 +1,173 @@
 {
   "items": [
     {
-      "id": "bein1",
+      "id": "adsport1",
       "name": {
-        "englishName": "Bein Sport 1",
-        "localizedName": "بي أن سبورتس 1"
+        "englishName": "Abu Dhabi Sports 1",
+        "localizedName": "أبو ظبي الرياضية 1"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg"
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg"
+      },
+      "order": 5,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "adsport2",
+      "name": {
+        "englishName": "Abu Dhabi Sports 2",
+        "localizedName": "أبو ظبي الرياضية 2"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg"
+      },
+      "order": 6,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },   
+    {
+      "id": "laliga1",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
       },
       "order": 1,
       "categories": [
@@ -78,19 +232,19 @@
       ]
     },
     {
-      "id": "bein2",
+      "id": "laliga2",
       "name": {
-        "englishName": "Bein Sport 2",
-        "localizedName": "بي أن سبورتس 2"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
-        "sourceId": "60",
+        "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg"
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
       },
       "order": 2,
       "categories": [
@@ -155,19 +309,19 @@
       ]
     },
     {
-      "id": "bein3",
+      "id": "adsport_prem1",
       "name": {
-        "englishName": "Bein Sport 3",
-        "localizedName": "بي أن سبورتس 3"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
-        "sourceId": "30",
+        "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg"
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg"
       },
       "order": 3,
       "categories": [
@@ -232,19 +386,19 @@
       ]
     },
     {
-      "id": "bein4",
+      "id": "adsport_prem2",
       "name": {
-        "englishName": "Bein Sport 4",
-        "localizedName": "بي أن سبورتس 4"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
-        "sourceId": "60",
+        "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg"
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg"
       },
       "order": 4,
       "categories": [
@@ -309,21 +463,21 @@
       ]
     },
     {
-      "id": "bein5",
+      "id": "adsport01",
       "name": {
-        "englishName": "Bein Sport 5",
-        "localizedName": "بي أن سبورتس 5"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
-        "sourceId": "60",
+        "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg"
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/5a00cd9f3aea465fae8ba6f41faeac40.PNG",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/5a00cd9f3aea465fae8ba6f41faeac40.PNG",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/5a00cd9f3aea465fae8ba6f41faeac40.PNG"
       },
-      "order": 5,
+      "order": 7,
       "categories": [
         {
           "englishName": "Sport",
@@ -333,7 +487,120 @@
       "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
-      "platforms": [],
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "starzplaysport",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e9ffbc4378244e82b7447d6c0df11adc.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e9ffbc4378244e82b7447d6c0df11adc.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e9ffbc4378244e82b7447d6c0df11adc.jpeg"
+      },
+      "order": 8,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
       "subscriptionTypes": [
         {
           "englishName": "PLUS",
