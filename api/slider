@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "id": "adsport1",
+      "id": "bein1red",
       "name": {
-        "englishName": "Abu Dhabi Sports 1",
-        "localizedName": "أبو ظبي الرياضية 1"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر الاول"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/234d5b5b9c9948d8af3c53dbe376f68e.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg"
       },
       "order": 5,
       "categories": [
@@ -78,19 +78,19 @@
       ]
     },
     {
-      "id": "adsport2",
+      "id": "bein1green",
       "name": {
-        "englishName": "Abu Dhabi Sports 2",
-        "localizedName": "أبو ظبي الرياضية 2"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر الثاني"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_green.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_green.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_green.jpg"
       },
       "order": 6,
       "categories": [
@@ -155,19 +155,19 @@
       ]
     },   
     {
-      "id": "laliga1",
+      "id": "bein1orange",
       "name": {
-        "englishName": "Earthlink Only",
-        "localizedName": "ايرثلنك فقط"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر الثالث"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg"
       },
       "order": 1,
       "categories": [
@@ -232,19 +232,19 @@
       ]
     },
     {
-      "id": "laliga2",
+      "id": "bein1s4",
       "name": {
-        "englishName": "Earthlink Only",
-        "localizedName": "ايرثلنك فقط"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر الرابع"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
       },
       "order": 2,
       "categories": [
@@ -309,19 +309,19 @@
       ]
     },
     {
-      "id": "adsport_prem1",
+      "id": "bein1s5",
       "name": {
-        "englishName": "Earthlink Only",
-        "localizedName": "ايرثلنك فقط"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر الخامس"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
       },
       "order": 3,
       "categories": [
@@ -386,19 +386,19 @@
       ]
     },
     {
-      "id": "adsport_prem2",
+      "id": "bein1s6",
       "name": {
-        "englishName": "Earthlink Only",
-        "localizedName": "ايرثلنك فقط"
+        "englishName": "Bein Sport 1",
+        "localizedName": "السيرفر السادس"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
       },
       "order": 4,
       "categories": [
