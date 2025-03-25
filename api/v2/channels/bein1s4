@@ -1,0 +1,41 @@
+{
+  "id": "bein1s4",
+  "externalId": 14,
+  "name": {
+    "englishName": "Bein Sport 1",
+    "localizedName": "السيرفر الرابع"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 16
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6123/index.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "14",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "",
+  "key": ""
+}

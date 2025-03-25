@@ -1,0 +1,41 @@
+{
+  "id": "bein1s5",
+  "externalId": 14,
+  "name": {
+    "englishName": "Bein Sport 1",
+    "localizedName": "السيرفر الخامس"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 16
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6131/index.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "14",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+    "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+    "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "",
+  "key": ""
+}

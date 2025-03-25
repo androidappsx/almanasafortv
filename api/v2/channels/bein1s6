@@ -1,0 +1,41 @@
+{
+  "id": "bein1s6",
+  "externalId": 14,
+  "name": {
+    "englishName": "Bein Sport 1",
+    "localizedName": "السيرفر السادس"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 16
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://tv.live12.ir/hls2/bein1.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "14",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg",
+    "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg",
+    "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_red.jpg"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "",
+  "key": ""
+}

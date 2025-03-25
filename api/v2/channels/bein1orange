@@ -1,0 +1,41 @@
+{
+  "id": "bein1orange",
+  "externalId": 14,
+  "name": {
+    "englishName": "Bein Sport 1",
+    "localizedName": "السيرفر الثالث"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 16
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6123/index.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "14",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg",
+    "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg",
+    "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_orange.jpg"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "",
+  "key": ""
+}
