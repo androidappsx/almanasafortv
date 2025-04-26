@@ -2,8 +2,8 @@
   "id": "bein1",
   "externalId": 14,
   "name": {
-    "englishName": "Bein Sport 1",
-    "localizedName": "بي أن سبورتس 1"
+    "englishName": "Sport 1",
+    "localizedName": "الرياضية الاولى"
   },
   "categories": [
     {
@@ -29,9 +29,9 @@
   "provider": "legacy_cms",
   "subscriptionTypes": [],
   "poster": {
-    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
-    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
-    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png"
+    "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg",
+    "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg",
+    "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg"
   },
   "isPremium": false,
   "isPublished": true,
