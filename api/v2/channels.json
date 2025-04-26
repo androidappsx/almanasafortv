@@ -3,13 +3,13 @@
     {
       "id": "bein1",
       "name": {
-        "englishName": "Bein Sport 1",
-        "localizedName": "بي إن سبورتس 1"
+        "englishName": "Sport 1",
+        "localizedName": "الرياضية الاولى"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/realvsbarsa.jpg"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/3d10b21022b94e95980fe53cba5d1171.svg",
